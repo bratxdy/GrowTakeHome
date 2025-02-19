@@ -1,0 +1,40 @@
+{
+    "tasks": [
+        {
+            "number_of_breaths": 3,
+            "mood_choices": ["happy", "sad", "content", "angry", "frustrated", "low energy", "excited"],
+            "unlocked_date": "09-01-2024",
+            "completed_date": "09-01-2024",
+            "mood_choice": "happy"
+        },
+        {
+            "number_of_breaths": 4,
+            "mood_choices": ["happy", "content", "angry", "frustrated", "excited"],
+            "unlocked_date": "09-15-2024",
+            "completed_date": "09-17-2024",
+            "mood_choice": "content"
+        },
+        {
+            "number_of_breaths": 5,
+            "mood_choices": ["happy", "sad", "angry", "frustrated", "low energy", "excited"],
+            "unlocked_date": "10-01-2024",
+            "completed_date": "10-02-2024",
+            "mood_choice": "angry"
+        },
+        {
+            "number_of_breaths": 4,
+            "mood_choices": ["happy", "sad", "angry", "low energy", "excited"],
+            "unlocked_date": "10-15-2024"
+        },
+        {
+            "number_of_breaths": 6,
+            "mood_choices": ["happy", "sad", "content", "angry", "frustrated", "excited"],
+            "unlocked_date": "11-01-2024"
+        },
+        {
+            "number_of_breaths": 7,
+            "mood_choices": ["happy", "content", "angry", "frustrated", "excited"],
+            "unlocked_date": "11-15-2024"
+        }
+    ]
+}
