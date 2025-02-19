@@ -1,18 +1,3 @@
-Welcome! We’re glad you’re interested in joining the team at Grow Therapy!
-This is an iOS Swift assessment, and your submission should showcase your capabilities. The
-product requirements consist of a pseudo-realistic product scenario. Your goal is to build a
-working app to match the design spec. A successful project will present a working app
-end-to-end, demonstrate knowledge of iOS best practices, and utilize readable Swift code.
-As a growing startup, we often encounter decisions that require us to make trade offs between
-simplicity vs. complexity, architecting for today vs. laying foundation for the future. Imagine you
-are building this as a first version of many versions, for an app that’s intended to grow and
-change over time. How can you design this in a way that’s easily extendable for future
-requirements while keeping the level of complexity right-sized for the design today?
-This assessment calls for building a small app, sample code from another project, and an
-associated writeup.
-We politely ask you not to share your solutions online. We also ask you to spend no more than a
-few hours on this exercise. Good luck!
-
 # Product Spec
 ## Background
 On their mental health journey, Grow Therapy clients may receive from their provider a schedule
